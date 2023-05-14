@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hello 👋! My name is Egemen and I am 18 years old. Independent Developer Since 2020.</h2>
 
 ###
 
