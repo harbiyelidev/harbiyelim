@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Html 5&logo=Html5&label=&color=FF5700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"  />
   <img src="https://img.shields.io/static/v1?message=Css 3&logo=Css3&label=&color=1673B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css logo"  />
