@@ -39,6 +39,6 @@
 ###
 
 <div align="center" dir="auto">
-    <a href="https://discord.com/users/996488031932514394" title="Discord Account" rel="nofollow"><img src="https://api.lanyard.rest/v1/users/996488031932514394" data-canonical-src="https://api.lanyard.rest/v1/users/996488031932514394" style="max-width: 100%;"></a>
+    <a href="https://discord.com/users/996488031932514394" title="Discord Account" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/996488031932514394" data-canonical-src="https://api.lanyard.rest/v1/users/996488031932514394" style="max-width: 100%;"></a>
 </div>
 
