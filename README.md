@@ -38,5 +38,5 @@
 
 ###
 
-<img src="https://discord.com/users/996488031932514394" alt="Snake animation"/>
+https://discord.com/users/996488031932514394
 
