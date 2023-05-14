@@ -14,11 +14,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&messageColor=white&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img src="https://img.shields.io/static/v1?message=Html 5&logo=Html5&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img src="https://img.shields.io/static/v1?message=Css 3&logo=Css3&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/static/v1?message=Html 5&logo=Html5&label=&color=FF5700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"  />
+  <img src="https://img.shields.io/static/v1?message=Css 3&logo=Css3&label=&color=1673B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/static/v1?message=Typescript&logo=Typescript&label=&color=2D79C7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   
