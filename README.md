@@ -39,6 +39,6 @@
 ###
 
 <div align="center" dir="auto">
-    <a href="https://discord.com/users/996488031932514394" title="Discord Account" rel="nofollow"><img src="https://camo.githubusercontent.com/4df158b163adfbb5c9e97c0bd800090d6fe25d330d5a665e812b4d7349a7d06e/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f343032303437323937393633323934373330" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/996488031932514394" style="max-width: 100%;"></a>
+    <a href="https://discord.com/users/996488031932514394" title="Discord Account" rel="nofollow"><img src="https://camo.githubusercontent.com/4df158b163adfbb5c9e97c0bd800090d6fe25d330d5a665e812b4d7349a7d06e/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f343032303437323937393633323934373330" data-canonical-src="https://api.lanyard.rest/v1/users/996488031932514394" style="max-width: 100%;"></a>
 </div>
 
