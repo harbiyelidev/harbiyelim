@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Html 5&logo=Html5&label=&color=FF5700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"  />
   <img src="https://img.shields.io/static/v1?message=Css 3&logo=Css3&label=&color=1673B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=F0DB4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
@@ -23,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
