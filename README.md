@@ -37,3 +37,6 @@
 </div>
 
 ###
+
+<img src="https://api.lanyard.rest/v1/users/996488031932514394" alt="Snake animation"/>
+
