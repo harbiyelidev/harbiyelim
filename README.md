@@ -31,7 +31,7 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation" align="center"/>
-
+<div align="center">
+  <img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation"/>
+</div>
 ###
