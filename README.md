@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋! My name is Egemen and I am 18 years old. Independent Developer Since 2020.</h2>
-<p align="center">Build a Paid Discord Bot. / Ücretli Discord Botu Yapılır.</p>
+<h6 align="center">Build a Paid Discord Bot. / Ücretli Discord Botu Yapılır.</h6>
 
 
 ###
