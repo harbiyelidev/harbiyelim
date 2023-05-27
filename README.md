@@ -4,6 +4,8 @@
 
 <h2> Hi, I'm Vezir Oni👋</h2>
 
+<p>Hello, In Turkish Developer Egemen "Vezir Oni". I live in Ankara, the Capital of Turkey, and am passionate about Motors, Music and Travel!</p>
+
 ###
 
 ```js
