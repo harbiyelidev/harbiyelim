@@ -1,9 +1,9 @@
 <h2 align="center">Hello 👋! My name is Egemen and I am 18 years old. Independent Developer Since 2020.</h2>
 
 <div align="center" width="50">
-  ```js
-  const me = developers.find(dev => dev.name === 'VezirOni')
-  ``` 
+```js
+const me = developers.find(dev => dev.name === 'VezirOni')
+``` 
 </div>
 
 ###
