@@ -45,9 +45,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
@@ -57,18 +55,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-
-  <div align="right">
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-</div>
 </div>
 
 ###
