@@ -31,7 +31,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
 </div>
 
