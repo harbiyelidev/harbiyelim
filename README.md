@@ -44,6 +44,23 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+</div>
+
+###
+
 <div align="center">
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
   <a href= "https://www.instagram.com/vezironi"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
