@@ -21,15 +21,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 </div>
 
 ###
-###
-###
-###
-###
-###
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -75,8 +68,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation"/>
