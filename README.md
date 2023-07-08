@@ -71,5 +71,5 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:vezir-oni?theme=rule34">
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/vezir-oni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
