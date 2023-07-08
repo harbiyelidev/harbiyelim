@@ -49,7 +49,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 ###
 
 <div align="center" dir="auto">
-  <a href="https://luppufy.onrender.com/member/996488031932514394" title="Discord Account" rel="nofollow"><img src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000" data-canonical-src="https://luppufy.onrender.com/member/996488031932514394" style="max-width: 100%;"></a>
-  <a href="https://luppufy.onrender.com/member/971782474747244565" title="Discord Account" rel="nofollow"><img src="https://luppufy.onrender.com/member/971782474747244565?border=ff0000&theme=000000" data-canonical-src="https://luppufy.onrender.com/member/971782474747244565" style="max-width: 100%;"></a>
+  <a href="https://luppufy.onrender.com/member/996488031932514394" title="Discord Account"><img src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000" data-canonical-src="https://luppufy.onrender.com/member/996488031932514394" style="max-width: 100%;"></a>
+  <a href="https://luppufy.onrender.com/member/971782474747244565" title="Discord Account"><img src="https://luppufy.onrender.com/member/971782474747244565?border=ff0000&theme=000000" data-canonical-src="https://luppufy.onrender.com/member/971782474747244565" style="max-width: 100%;"></a>
 </div>
 
