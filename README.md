@@ -67,4 +67,4 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   
 </div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=vezironi&&logoColor=white&labelColor=&style=for-the-badge)  
+![Profile views counter](https://komarev.com/ghpvc/?username=vezironi&&logoColor=white&color=9146FF&labelColor=&style=for-the-badge)  
