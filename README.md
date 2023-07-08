@@ -24,7 +24,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 ##
 
-###
+##
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -46,7 +46,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
@@ -60,7 +60,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
@@ -69,13 +69,13 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <a href= "https://discord.gg/2quUYsc8DE"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation"/>
 </div>
 
-###
+##
 
 <div align="center" dir="auto">
   <a href="https://luppufy.onrender.com/member/996488031932514394" title="Discord Account"><img src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000" data-canonical-src="https://luppufy.onrender.com/member/996488031932514394" style="max-width: 100%;"></a>
