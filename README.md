@@ -37,6 +37,16 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 ##
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=bots" height="60" alt="abbrobotstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=atom" height="60" alt="atom logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+</div>
+
+##
+
+<div align="center">
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
   <a href= "https://www.instagram.com/vezironi"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <a href= "https://www.twitch.com/vezirdev"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
