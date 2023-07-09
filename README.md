@@ -72,3 +72,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/vezironi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
+
+##
+
+<a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000"> </a>
+<a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/971782474747244565?border=ff0000&theme=000000"> </a>
