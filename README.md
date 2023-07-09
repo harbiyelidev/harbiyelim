@@ -75,5 +75,7 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 ##
 
-<a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000"> </a>
-<a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/971782474747244565?border=ff0000&theme=000000"> </a>
+<div align="center">
+  <a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/996488031932514394?border=ff0000&theme=000000"></a>
+  <a href="#"> <img width="270px" src="https://luppufy.onrender.com/member/971782474747244565?border=ff0000&theme=000000"></a>
+</div>
