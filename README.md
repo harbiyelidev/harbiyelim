@@ -70,7 +70,9 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:vezir-oni?theme=rule34">
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/vezironi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+
+There is not a sentence, a word, acrostic, or a poem that can describe the beauty of your eyes, neither in the world nor in the Universe, from Arabic to Korean to French.
+
 </h2>
 
 <div align="center">
