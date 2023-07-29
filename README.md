@@ -6,6 +6,8 @@
 
 <p>Hello, In Turkish Developer Egemen "Vezir Oni". I live in Ankara, the Capital of Turkey, and am passionate about Motors, Music and Travel!</p>
 
+<p>There is not a sentence, a word, acrostic, or a poem that can describe the beauty of your eyes, neither in the world nor in the Universe, from Arabic to Korean to French.</p>
+
 ###
 
 ```js
@@ -70,9 +72,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:vezir-oni?theme=rule34">
 <br> </br>
-
-There is not a sentence, a word, acrostic, or a poem that can describe the beauty of your eyes, neither in the world nor in the Universe, from Arabic to Korean to French.
-
 </h2>
 
 <div align="center">
