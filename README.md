@@ -6,6 +6,10 @@
 
 <p>Hello, In Turkish Developer Egemen "Vezir Oni". I live in Ankara, the Capital of Turkey, and am passionate about Motors, Music and Travel!</p>
 
+<h2>My Life</h2>
+
+<img src="https://i.imgur.com/CH9lnAW.jpg">
+
 <p>There is not a sentence, a word, acrostic, or a poem that can describe the beauty of your eyes, neither in the world nor in the Universe, from Arabic to Korean to French.</p>
 
 ###
