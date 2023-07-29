@@ -20,6 +20,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://streak-stats.demolab.com?user=vezironi&locale=tr&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
+<h2> Languages ​​We Use </h2>
+
 ##
 
 <div align="center">
@@ -34,6 +36,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
 </div>
 
+<h2> Programs I Use </h2>
+
 ##
 
 <div align="center">
@@ -43,6 +47,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
+
+<h2> My Social Media Accounts </h2>
 
 ##
 
