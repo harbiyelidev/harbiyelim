@@ -22,8 +22,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 <h2> Languages ​​We Use </h2>
 
-##
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
@@ -38,8 +36,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 <h2> Programs I Use </h2>
 
-##
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bots" height="60" alt="abbrobotstudio logo"  />
   <img src="https://skillicons.dev/icons?i=atom" height="60" alt="atom logo"  />
@@ -49,8 +45,6 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 </div>
 
 <h2> My Social Media Accounts </h2>
-
-##
 
 <div align="center">
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
