@@ -8,7 +8,7 @@
 
 <h2>My Life</h2>
 
-<img src="https://i.imgur.com/CH9lnAW.jpg">
+<img src="https://i.imgur.com/CH9lnAW.jpg" oncontextmenu="return false"  onselectstart="return false" ondragstart="return false">
 
 <p>There is not a sentence, a word, acrostic, or a poem that can describe the beauty of your eyes, neither in the world nor in the Universe, from Arabic to Korean to French.</p>
 
