@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/rVgnqaE.mp4" ondragstart="return false">
+<img src="https://i.imgur.com/hNwTYH0.png">
 
 ###
 
