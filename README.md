@@ -77,6 +77,5 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 </h2>
 
 <div align="center">
-  <a href=""> <img width="270px" src="https://luppufy-api.onrender.com/member/996488031932514394"></a>
-  <a href="#"> <img width="270px" src="https://luppufy-api.onrender.com/member/971782474747244565"></a>
+  <a href="https://discord.com/users/996488031932514394"> <img width="270px" src="https://luppufy-api.onrender.com/member/996488031932514394"></a>
 </div>
