@@ -32,6 +32,8 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="lua logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
