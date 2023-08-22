@@ -27,17 +27,18 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 <h2> Languages ​​We Use </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="lua logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="lua logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="48" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
 </div>
 
 <h2> Programs I Use </h2>
