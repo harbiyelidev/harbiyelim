@@ -70,15 +70,11 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31trmbb7h5ewqyawdo3nzoqytgma&redirect=true)
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pyf4j7lcb23n6be6g2pu4ghoom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:vezir-oni?theme=rule34">
 <br> </br>
 </h2>
-
-<div align="center">
-  <a href="https://discord.com/users/996488031932514394"> <img width="270px" src="https://luppufy-api.onrender.com/member/996488031932514394"></a>
-</div>
