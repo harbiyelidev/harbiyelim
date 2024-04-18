@@ -1,4 +1,4 @@
-<img src="https://github.com/VezirOni/vezironi/blob/main/VezirOni.gif">
+<img src="https://i.imgur.com/8j04cZt.png">
 
 ###
 
