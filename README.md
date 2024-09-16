@@ -19,9 +19,9 @@ const me = developers.find(dev => dev.name === 'VezirOni')
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harbiyelim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harbiyelim&locale=tr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=harbiyelim&locale=tr&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=harbiyelidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harbiyelidev&locale=tr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=harbiyelidev&locale=tr&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 <h2> Languages ​​We Use </h2>
@@ -57,22 +57,22 @@ const me = developers.find(dev => dev.name === 'VezirOni')
   <a href= "https://www.youtube.com/channel/UCgKXOSblNRpeNV0lwnhu_cw"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
   <a href= "https://www.instagram.com/vezironi"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <a href= "https://www.twitch.com/vezirdev"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
-  <a href= "https://discord.gg/2quUYsc8DE"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  <a href= "https://discord.gg/hdstore"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/harbiyelidev/harbiyelidev/blob/main/snake.svg" alt="Snake animation"/>
 </div>
 
 ##
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pyf4j7lcb23n6be6g2pu4ghoom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317zk3k6uh6qzxwyixo24iyxuli4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317zk3k6uh6qzxwyixo24iyxuli4&redirect=true)
 
 </div>
 
 <h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:vezir-oni?theme=rule34">
+<img width="50%" src="https://count.getloli.com/get/@:harbiyelidev?theme=rule34">
